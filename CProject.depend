@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1261763059 source:c:\documents and settings\angelrinascita\Мои документы\codeblocks\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Geometry.h"
+	"VideoAdapter.h"
+	"Battlefield.h"
+	"Ship.h"
+	"Structure.h"
+	"Scanning.h"
+	"Text.h"
+
+1261681921 c:\documents and settings\angelrinascita\Мои документы\codeblocks\cproject\battlefield.h
+	<stdio.h>
+	<stdlib.h>
+	"Geometry.h"
+	"VideoAdapter.h"
+
+1261758806 c:\documents and settings\angelrinascita\Мои документы\codeblocks\cproject\ship.h
+	<stdio.h>
+	<stdlib.h>
+	"Geometry.h"
+	"VideoAdapter.h"
+	"Battlefield.h"
+	"Text.h"
+
+1261444058 c:\documents and settings\angelrinascita\Мои документы\codeblocks\cproject\videoadapter.h
+	<stdio.h>
+	<stdlib.h>
+
+1261762961 c:\documents and settings\angelrinascita\Мои документы\codeblocks\cproject\geometry.h
+	<stdio.h>
+	<stdlib.h>
+
+1261762978 c:\documents and settings\angelrinascita\Мои документы\codeblocks\cproject\text.h
+	<stdio.h>
+	<stdlib.h>
+	"Geometry.h"
+	"VideoAdapter.h"
+
+1261669540 c:\documents and settings\angelrinascita\Мои документы\codeblocks\cproject\structure.h
+
+1261699362 c:\documents and settings\angelrinascita\Мои документы\codeblocks\cproject\scanning.h
+	<stdio.h>
+	<stdlib.h>
+	"Geometry.h"
+	"Structure.h"
+	"Ship.h"
+
+1264198258 source:d:\mydocument angeldesant\codeblocks\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Geometry.h"
+	"VideoAdapter.h"
+	"Battlefield.h"
+	"Ship.h"
+	"Structure.h"
+	"Scanning.h"
+	"Text.h"
+	"Player.h"
+	"MainMenu.h"
+
+1261762961 d:\mydocument angeldesant\codeblocks\cproject\geometry.h
+	<stdio.h>
+	<stdlib.h>
+
+1262025313 d:\mydocument angeldesant\codeblocks\cproject\videoadapter.h
+	<stdio.h>
+	<stdlib.h>
+
+1262365992 d:\mydocument angeldesant\codeblocks\cproject\battlefield.h
+	<stdio.h>
+	<stdlib.h>
+	"Geometry.h"
+	"VideoAdapter.h"
+
+1262364924 d:\mydocument angeldesant\codeblocks\cproject\ship.h
+	<stdio.h>
+	<stdlib.h>
+	"Geometry.h"
+	"VideoAdapter.h"
+	"Battlefield.h"
+	"Text.h"
+	"Scanning.h"
+
+1261762978 d:\mydocument angeldesant\codeblocks\cproject\text.h
+	<stdio.h>
+	<stdlib.h>
+	"Geometry.h"
+	"VideoAdapter.h"
+
+1261669540 d:\mydocument angeldesant\codeblocks\cproject\structure.h
+
+1262047005 d:\mydocument angeldesant\codeblocks\cproject\scanning.h
+	<stdio.h>
+	<stdlib.h>
+	"Geometry.h"
+	"Structure.h"
+
+1264131133 d:\mydocument angeldesant\codeblocks\cproject\player.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Geometry.h"
+	"VideoAdapter.h"
+	"Battlefield.h"
+	"Ship.h"
+	"Structure.h"
+	"Scanning.h"
+	"Text.h"
+
+1264196846 d:\mydocument angeldesant\codeblocks\cproject\mainmenu.h
+	<stdio.h>
+	<stdlib.h>
+	"Geometry.h"
+	"VideoAdapter.h"
+	"Text.h"
+
